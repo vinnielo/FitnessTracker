@@ -4,7 +4,7 @@
 # FitnessTracker
 
 repo: https://github.com/vinnielo/FitnessTracker
-Deployed: 
+Deployed: https://sheltered-sands-46563.herokuapp.com/
 
 
 ## Description
